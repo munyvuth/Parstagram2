@@ -10,11 +10,11 @@
     tools:context=".LoginActivity">
 
     <ImageView
-        android:layout_width="200dp"
-        android:layout_height="100dp"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
         android:layout_gravity="center"
         android:scaleType="centerCrop"
-        android:src="@mipmap/ic_launcher_instagram" />
+        android:src="@drawable/ic_launcher_instagram" />
 
     <EditText
         android:id="@+id/etUsername"
